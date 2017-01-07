@@ -1,4 +1,4 @@
-package iniparse
+package iniparser
 
 import (
 	"bufio"
